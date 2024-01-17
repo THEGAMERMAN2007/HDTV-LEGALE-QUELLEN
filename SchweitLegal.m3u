@@ -1,59 +1,23 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/j67zn69mvgsqvq29yd1w"
-#EXTINF:-1 tvg-id="DasErste.de" tvg-name="Das Erste SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/cf416cc96a575e40e35f43c05d829efdb176bc35.png" group-title="HDTV",Das Erste SD/HD
-https://mcdn.daserste.de/daserste/de/master.m3u8
-#EXTINF:-1 tvg-id="zdf.de" tvg-name="ZDF SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/e19130e25f23d70df7f85807c6ddc1c8d62109f5.png" group-title="HDTV",ZDF SD/HD
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 #EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/9837608c7cfa66c854354b00e53992f6861bcd1a.png" group-title="HDTV",RTL SD/HD
-https://s55.2ix2com.de/conv/go/rtl/chunks.m3u81a.doc&ios=1
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=1810000,BANDWIDTH=2260000,RESOLUTION=1280x720,FRAME-RATE=50.000,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE
+https://helpfulpost.net/rtl/index.m3u8?token=38d495fa18b48a1e26ca66af20456e7a1476b31d-48d3262e738cd81767793de1adc822fd-1705515945-1705505145
+
+#EXTINF:-1 tvg-id="RTLII.de" tvg-name="RTL II SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/bcfa273955d4de5c524ab6a632793d4e0ca5d340.png" group-title="HDTV",RTL II SD/HD
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=6370000,BANDWIDTH=7960000,RESOLUTION=1280x720,FRAME-RATE=50.000,CODECS="avc1.640020,mp4a.40.2",CLOSED-CAPTIONS=NONE
+https://helpfulpost.net/rtl2/index.m3u8?token=bd290085bddfd1d400c96c4a843f09442eb20313-682388a041759ddec1ca92c577058c69-1705516022-1705505222
+
 #EXTINF:-1 tvg-id="VOX.de" tvg-name="VOX SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/ab1b4db17f18456ab5fef3b39180c2f0fac69833.png" group-title="HDTV",VOX SD/HD
-https://s55.2ix2-alternative.de/conv/go/vox/chunks.m3u81a.doc
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=6500000,BANDWIDTH=8130000,RESOLUTION=1280x720,FRAME-RATE=50.000,CODECS="avc1.640020,mp4a.40.2",CLOSED-CAPTIONS=NONE
+https://helpfulpost.net/vox/index.m3u8?token=5c5c6f876053809817a4e63c594d241387d62508-a2db3ba1c06c6b6d061c36cb91964af7-1705516058-1705505258
+
+#EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/67c3154ef4906af6324dc75cdd2ec4b8f32ba77d.png" group-title="HDTV",ProSieben SD/HD
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=4790000,BANDWIDTH=5990000,RESOLUTION=1920x1080,FRAME-RATE=50.000,CODECS="avc1.64002a,mp4a.40.2",CLOSED-CAPTIONS=NONE
+https://helpfulpost.net/pro7/index.m3u8?token=93f7ea259753eea4d4ceb1cbf308f546f2fb7cc4-fb0b3241641d4670dda1c43d6ae1ff8b-1705516087-1705505287
+
 #EXTINF:-1 tvg-id="Sat1.de" tvg-name="Sat 1 SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/d36b5ed6e8b046be225671f62b42f6362c55ee22.png" group-title="HDTV",Sat 1 SD/HD
-https://s55.2ix2com.de/conv/go/sat-1/chunks.m3u81a.doc
-#EXTM3U
-#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=4720000,BANDWIDTH=5900000,RESOLUTION=1920x1080,FRAME-RATE=50.000,CODECS="avc1.64002a,mp4a.40.2",CLOSED-CAPTIONS=NONE
-https://helpfulpost.net/pro7/index.m3u8?token=e96da0cf1ef16f943fc595420a046945903b48e1-753968e5a3c6d9073a2f6cc11f523191-1705515641-1705504841
-#EXTINF:-1 tvg-id="kabeleins.de" tvg-name="Kabel Eins SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/97cabed29d22f5726bc367c02f7f7860e7e95ea4.png" group-title="HDTV",Kabel Eins SD/HD
-https://s55.2ix2-alternative.de/conv/go/kabel-eins/chunks.m3u81a.doc
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=1800000,BANDWIDTH=2250000,RESOLUTION=1280x720,FRAME-RATE=50.000,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE
+https://helpfulpost.net/sat1/index.m3u8?token=6d3ffaaff3002f5f5642fceb97a3d9988d7ad7b6-65580e0a0d2f419f3763ab46b8b101c7-1705516130-1705505330
+
 #EXTINF:-1 tvg-id="KabeleinsDoku.de" tvg-name="Kabel Eins Doku SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/6e13a0345c0d40adb0f718755c315dce6269af1d.png" group-title="HDTV",Kabel Eins Doku SD/HD
 #EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=4600000,BANDWIDTH=5750000,RESOLUTION=1920x1080,FRAME-RATE=50.000,CODECS="avc1.64002a,mp4a.40.2",CLOSED-CAPTIONS=NONE
 https://helpfulpost.net/kabel1doku/index.m3u8?token=f50dad4f2a40c49a326b0af15c8bdae8ebb1bce3-3a9dd761c297c0d6daccae7c14cff85c-1705515116-1705504316
-#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDF Neo SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/cb898bc1d4f4291a994851ae22ae93b40467181c.png" group-title="HDTV",ZDF Neo SD/HD
-https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
-#EXTINF:-1 tvg-id="RTLII(src01).de" tvg-name="RTL II SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/bcfa273955d4de5c524ab6a632793d4e0ca5d340.png" group-title="HDTV",RTL II SD/HD
-https://s55.2ix2com.de/conv/go/rtl2/chunks.m3u81a.doc
-#EXTINF:-1 tvg-id="RTLup.de" tvg-name="RTL UP SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/7c2f4696435b5416266cd09b356420953d5ff280.png" group-title="HDTV",RTL UP SD/HD
-https://s5.tv24livestream2.de/conv/go/rtlup/chunks.m3u81a.doc
-#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="Sat 1 Gold SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/50e21d837d6ca501ef59c832f139c269ea173bf5.png" group-title="HDTV",Sat 1 Gold SD/HD
-https://s5.mysqlcryptnow.de/conv/go/sat1-gold/chunks.m3u81a.doc
-#EXTINF:-1 tvg-id="RTLNitro(src01).de" tvg-name="RTL Nitro SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/d39e08b7e07394cf436285fb47ed36c0037b89c6.png" group-title="HDTV",RTL Nitro SD/HD
-https://s55.tv24livestream1.de/conv/go/rtl-nitro/chunks.m3u81a.doc
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alex TV SD/HD" tvg-logo="https://www.cimdata.de/wp-content/uploads/ALEX_Logo.jpg" group-title="HDTV",Alex TV SD/HD
-https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDF Info SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/1aeb69ec2c60a45a57bc0c01fd6c36b6dbf377e7.png" group-title="HDTV",ZDF Info SD/HD
-https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
-#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="RTL Super SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/d424d9dd46e4aadf15c9b290f9566022e1f751e3.png" group-title="HDTV",RTL Super SD/HD
-https://s55.2ix2-alternative.de/conv/go/super-rtl/chunks.m3u81a.doc
-#EXTINF:-1 tvg-id="DMAX.de" tvg-name="DMAX SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/ddf2946d5dc4e747b294fadeeb5552643688a6a4.png" group-title="HDTV",DMAX SD/HD
-https://s55.2ix2com.de/conv/go/dmax/chunks.m3u81a.doc
-#EXTINF:-1 tvg-id="Tele5.de" tvg-name="Tele 5 SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/32a48373344696c10ba67188d40b84276a5ffbb8.jpeg" group-title="HDTV",Tele 5 SD/HD
-https://s5.2ix2com.de/conv/go/tele5/chunks.m3u81a.doc
-#EXTINF:-1 tvg-id="sixx.de" tvg-name="SIXX SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/de47028468ad1df49de852883dc42addad5825c1.png" group-title="HDTV",SIXX SD/HD
-https://s55.2ix2-alternative.de/conv/go/sixx/chunks.m3u81a.doc
-#EXTINF:-1 tvg-id="ProSiebenMAXX.de" tvg-name="ProSieben Maxx SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/39803d8155ac67b6eb5ebc6fc9ee0f776bda9078.png" group-title="HDTV",ProSieben Maxx SD/HD
-https://s55.2ix2com.de/conv/go/prosieben-maxx/chunks.m3u81a.doc
-#EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/d53ac960c377cc6e7fba0946689a7cf881caa608.png" group-title="HDTV",Comedy Central SD/HD
-https://s5.2ix2-alternative.de/conv/go/comedy-central/chunks.m3u81a.doc
-#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="Nickelodeon SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/564172e6fc9ba959953b01338b392280debf2bb3.png" group-title="HDTV",Nickelodeon SD/HD
-https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/master_900.m3u8
-#EXTINF:-1 tvg-id="VOXup.de" tvg-name="VOX UP SD/HD" tvg-logo="https://i.ibb.co/M6SVjFn/voxup2-Photo-Room.jpg" group-title="HDTV",VOX UP SD/HD
-https://s7.2ix2tv.de/conv/go/voxup/chunks.m3u81a.doc
-#EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/b586ac90cc3f2a1b5b684c3040248b3f8a4b50ea.png" group-title="HDTV",TLC SD/HD
-https://s2.dietdinnerrecipes.com/stream/go2/Njg3NDc0NzA3MzI1MzM0MTI1MzI0NjI1MzI0Njc3Nzc3NzJlNmM2OTc2NjU3Mzc0NzI2NTYxNmQ2NDY1MmU2MzZmNmQyNTMyNDY3NDZjNjMyNTMyNDY=~/~NzMyZTY4NjQ3NDc2Njk3YTZjNjU2MzYxNmU2YzY5MmU2MzZmNmQ=~/~/tlc.m3u81a.doc
-#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel SD/HD" tvg-logo="https://cache.pressmailing.net/thumbnail/story_hires/f058cd59-3a6e-4282-a7cd-81d9631f6054/Disney%20Channel_Primetime.jpg" group-title="HDTV",Disney Channel SD/HD
-https://s2.dietdinnerrecipes.com/stream/go2/Njg3NDc0NzA3MzI1MzM0MTI1MzI0NjI1MzI0Njc3Nzc3NzJlNmM2OTc2NjU3Mzc0NzI2NTYxNmQ2NDY1MmU2MzZmNmQyNTMyNDY2NDY5NzM2ZTY1NzkyZDYzNjg2MTZlNmU2NTZjMjUzMjQ2~/~NzM3NDcyNjU2MTZkMmU2ODY0NzQ3NjY5N2E2YzY1NjM2MTZlNmM2OTJlNjM2ZjZk~/~/disneyger2.m3u81a.doc
-#EXTINF:-1 tvg-id="KiKA.de" tvg-name="KIKA SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/2f0ff7b44c615c4de521878f52a67bc204e90ccc.png" group-title="HDTV",KIKA SD/HD
-https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
-#EXTINF:-1 tvg-id="DELUXEMUSIC(src01).de" tvg-name="Deluxe Music TV SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/0c7d8589ef1ecac504e6441bf09db1188f9d9a54.png" group-title="HDTV",Deluxe Music TV SD/HD
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-id="RedBullTV.de" tvg-name="RedBull TV SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/e1ea5bb2bb473472a8123ce8cc0079f60454c390.png" group-title="HDTV",RedBull TV SD/HD
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
