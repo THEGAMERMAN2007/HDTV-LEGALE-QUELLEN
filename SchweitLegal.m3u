@@ -4,7 +4,7 @@ https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:-1 tvg-id="zdf.de" tvg-name="ZDF SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/e19130e25f23d70df7f85807c6ddc1c8d62109f5.png" group-title="HDTV",ZDF SD/HD
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 #EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/9837608c7cfa66c854354b00e53992f6861bcd1a.png" group-title="HDTV",RTL SD/HD
-https://s55.2ix2com.de/conv/go/rtl/chunks.m3u81a.doc
+https://s55.2ix2com.de/conv/go/rtl/chunks.m3u81a.doc&ios=1
 #EXTINF:-1 tvg-id="VOX.de" tvg-name="VOX SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/ab1b4db17f18456ab5fef3b39180c2f0fac69833.png" group-title="HDTV",VOX SD/HD
 https://s55.2ix2-alternative.de/conv/go/vox/chunks.m3u81a.doc
 #EXTINF:-1 tvg-id="Sat1.de" tvg-name="Sat 1 SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/d36b5ed6e8b046be225671f62b42f6362c55ee22.png" group-title="HDTV",Sat 1 SD/HD
