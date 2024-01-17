@@ -14,7 +14,8 @@ https://s55.2ix2-alternative.de/conv/go/prosieben/chunks.m3u81a.doc
 #EXTINF:-1 tvg-id="kabeleins.de" tvg-name="Kabel Eins SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/97cabed29d22f5726bc367c02f7f7860e7e95ea4.png" group-title="HDTV",Kabel Eins SD/HD
 https://s55.2ix2-alternative.de/conv/go/kabel-eins/chunks.m3u81a.doc
 #EXTINF:-1 tvg-id="KabeleinsDoku.de" tvg-name="Kabel Eins Doku SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/6e13a0345c0d40adb0f718755c315dce6269af1d.png" group-title="HDTV",Kabel Eins Doku SD/HD
-https://s1.dietdinnerrecipes.com/stream/go2/Njg3NDc0NzA3MzI1MzM0MTI1MzI0NjI1MzI0Njc3Nzc3NzJlNmM2OTc2NjU3Mzc0NzI2NTYxNmQ2NDY1MmU2MzZmNmQyNTMyNDY2YjYxNjI2NTZjMmQzMTJkNjQ2ZjZiNzUyNTMyNDY=~/~NzM3NDcyNjU2MTZkMmU2ODY0NzQ3NjY5N2E2YzY1NjM2MTZlNmM2OTJlNjM2ZjZk~/~/kabel1doku.m3u81a.doc
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=4600000,BANDWIDTH=5750000,RESOLUTION=1920x1080,FRAME-RATE=50.000,CODECS="avc1.64002a,mp4a.40.2",CLOSED-CAPTIONS=NONE
+https://helpfulpost.net/kabel1doku/index.m3u8?token=f50dad4f2a40c49a326b0af15c8bdae8ebb1bce3-3a9dd761c297c0d6daccae7c14cff85c-1705515116-1705504316
 #EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDF Neo SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/cb898bc1d4f4291a994851ae22ae93b40467181c.png" group-title="HDTV",ZDF Neo SD/HD
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
 #EXTINF:-1 tvg-id="RTLII(src01).de" tvg-name="RTL II SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/bcfa273955d4de5c524ab6a632793d4e0ca5d340.png" group-title="HDTV",RTL II SD/HD
