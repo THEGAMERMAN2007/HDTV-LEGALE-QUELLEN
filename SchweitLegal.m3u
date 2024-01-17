@@ -1,23 +1,18 @@
 #EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/9837608c7cfa66c854354b00e53992f6861bcd1a.png" group-title="HDTV",RTL SD/HD
 #EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=1810000,BANDWIDTH=2260000,RESOLUTION=1280x720,FRAME-RATE=50.000,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE
 https://helpfulpost.net/rtl/index.m3u8?token=38d495fa18b48a1e26ca66af20456e7a1476b31d-48d3262e738cd81767793de1adc822fd-1705515945-1705505145
-
 #EXTINF:-1 tvg-id="RTLII.de" tvg-name="RTL II SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/bcfa273955d4de5c524ab6a632793d4e0ca5d340.png" group-title="HDTV",RTL II SD/HD
 #EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=6370000,BANDWIDTH=7960000,RESOLUTION=1280x720,FRAME-RATE=50.000,CODECS="avc1.640020,mp4a.40.2",CLOSED-CAPTIONS=NONE
 https://helpfulpost.net/rtl2/index.m3u8?token=bd290085bddfd1d400c96c4a843f09442eb20313-682388a041759ddec1ca92c577058c69-1705516022-1705505222
-
 #EXTINF:-1 tvg-id="VOX.de" tvg-name="VOX SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/ab1b4db17f18456ab5fef3b39180c2f0fac69833.png" group-title="HDTV",VOX SD/HD
 #EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=6500000,BANDWIDTH=8130000,RESOLUTION=1280x720,FRAME-RATE=50.000,CODECS="avc1.640020,mp4a.40.2",CLOSED-CAPTIONS=NONE
 https://helpfulpost.net/vox/index.m3u8?token=5c5c6f876053809817a4e63c594d241387d62508-a2db3ba1c06c6b6d061c36cb91964af7-1705516058-1705505258
-
 #EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/67c3154ef4906af6324dc75cdd2ec4b8f32ba77d.png" group-title="HDTV",ProSieben SD/HD
 #EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=4790000,BANDWIDTH=5990000,RESOLUTION=1920x1080,FRAME-RATE=50.000,CODECS="avc1.64002a,mp4a.40.2",CLOSED-CAPTIONS=NONE
 https://helpfulpost.net/pro7/index.m3u8?token=93f7ea259753eea4d4ceb1cbf308f546f2fb7cc4-fb0b3241641d4670dda1c43d6ae1ff8b-1705516087-1705505287
-
 #EXTINF:-1 tvg-id="Sat1.de" tvg-name="Sat 1 SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/d36b5ed6e8b046be225671f62b42f6362c55ee22.png" group-title="HDTV",Sat 1 SD/HD
 #EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=1800000,BANDWIDTH=2250000,RESOLUTION=1280x720,FRAME-RATE=50.000,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE
 https://helpfulpost.net/sat1/index.m3u8?token=6d3ffaaff3002f5f5642fceb97a3d9988d7ad7b6-65580e0a0d2f419f3763ab46b8b101c7-1705516130-1705505330
-
 #EXTINF:-1 tvg-id="KabeleinsDoku.de" tvg-name="Kabel Eins Doku SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/6e13a0345c0d40adb0f718755c315dce6269af1d.png" group-title="HDTV",Kabel Eins Doku SD/HD
 #EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=4600000,BANDWIDTH=5750000,RESOLUTION=1920x1080,FRAME-RATE=50.000,CODECS="avc1.64002a,mp4a.40.2",CLOSED-CAPTIONS=NONE
 https://helpfulpost.net/kabel1doku/index.m3u8?token=f50dad4f2a40c49a326b0af15c8bdae8ebb1bce3-3a9dd761c297c0d6daccae7c14cff85c-1705515116-1705504316
