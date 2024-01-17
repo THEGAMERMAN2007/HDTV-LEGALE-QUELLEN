@@ -9,8 +9,9 @@ https://s55.2ix2com.de/conv/go/rtl/chunks.m3u81a.doc&ios=1
 https://s55.2ix2-alternative.de/conv/go/vox/chunks.m3u81a.doc
 #EXTINF:-1 tvg-id="Sat1.de" tvg-name="Sat 1 SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/d36b5ed6e8b046be225671f62b42f6362c55ee22.png" group-title="HDTV",Sat 1 SD/HD
 https://s55.2ix2com.de/conv/go/sat-1/chunks.m3u81a.doc
-#EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/67c3154ef4906af6324dc75cdd2ec4b8f32ba77d.png" group-title="HDTV",ProSieben SD/HD
-https://s55.2ix2-alternative.de/conv/go/prosieben/chunks.m3u81a.doc
+#EXTM3U
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=4720000,BANDWIDTH=5900000,RESOLUTION=1920x1080,FRAME-RATE=50.000,CODECS="avc1.64002a,mp4a.40.2",CLOSED-CAPTIONS=NONE
+tracks-v1a1/mono.m3u8?token=e96da0cf1ef16f943fc595420a046945903b48e1-753968e5a3c6d9073a2f6cc11f523191-1705515641-1705504841
 #EXTINF:-1 tvg-id="kabeleins.de" tvg-name="Kabel Eins SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/97cabed29d22f5726bc367c02f7f7860e7e95ea4.png" group-title="HDTV",Kabel Eins SD/HD
 https://s55.2ix2-alternative.de/conv/go/kabel-eins/chunks.m3u81a.doc
 #EXTINF:-1 tvg-id="KabeleinsDoku.de" tvg-name="Kabel Eins Doku SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/6e13a0345c0d40adb0f718755c315dce6269af1d.png" group-title="HDTV",Kabel Eins Doku SD/HD
