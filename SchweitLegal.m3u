@@ -11,7 +11,7 @@ https://s55.2ix2-alternative.de/conv/go/vox/chunks.m3u81a.doc
 https://s55.2ix2com.de/conv/go/sat-1/chunks.m3u81a.doc
 #EXTM3U
 #EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=4720000,BANDWIDTH=5900000,RESOLUTION=1920x1080,FRAME-RATE=50.000,CODECS="avc1.64002a,mp4a.40.2",CLOSED-CAPTIONS=NONE
-tracks-v1a1/mono.m3u8?token=e96da0cf1ef16f943fc595420a046945903b48e1-753968e5a3c6d9073a2f6cc11f523191-1705515641-1705504841
+https://helpfulpost.net/pro7/index.m3u8?token=e96da0cf1ef16f943fc595420a046945903b48e1-753968e5a3c6d9073a2f6cc11f523191-1705515641-1705504841
 #EXTINF:-1 tvg-id="kabeleins.de" tvg-name="Kabel Eins SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/97cabed29d22f5726bc367c02f7f7860e7e95ea4.png" group-title="HDTV",Kabel Eins SD/HD
 https://s55.2ix2-alternative.de/conv/go/kabel-eins/chunks.m3u81a.doc
 #EXTINF:-1 tvg-id="KabeleinsDoku.de" tvg-name="Kabel Eins Doku SD/HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/6e13a0345c0d40adb0f718755c315dce6269af1d.png" group-title="HDTV",Kabel Eins Doku SD/HD
